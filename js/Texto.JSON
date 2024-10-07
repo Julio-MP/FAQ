@@ -1,0 +1,20 @@
+{
+    "faq": [
+        {
+            "pergunta": "O que é o GT e como ele pode me ajudar?",
+            "resposta": "A entidade estudantil GT é responsável por desenvolver projetos que oferecem uma base sólida e ajudam a aprimorar suas habilidades. Além disso, ela proporciona oportunidades para criar networking, fazer amizades dentro da faculdade e, claro, ter aquele momento para jogar papo fora e descontrair."
+        },
+        {
+            "pergunta": "O GT oferece certificado?",
+            "resposta": "Com certeza! Além do toda experiência e networking você também receberá um certificado."
+        },
+        {
+            "pergunta": "Eu vou ter projetos para colocar no meu portfólio?",
+            "resposta": "Terá de monte, na entidade você sempre estará se colocando em novos desafios."
+        },
+        {
+            "pergunta": "Como posso receber ajuda no caso de ficar preso no desafio?",
+            "resposta": "A comunidade de GTHC conta com diversas pessoas que estão dispostas a ajudar."
+        }
+    ]
+}
